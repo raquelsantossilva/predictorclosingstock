@@ -17,6 +17,10 @@ Os dados utilizados para treinar e avaliar os modelos incluem as seguintes featu
 
 - Random Forest Regressor
 
+### Como executar:
+
+- Instale o python na versão 3.11
+- bibliotecas : pandas,numpy,sklearn,matplotlib,joblib
 
 ### Estrutura do Projeto: 
 - googleprices.csv : CSV para armazenar os dados brutos.
