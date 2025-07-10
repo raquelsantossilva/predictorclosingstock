@@ -2,7 +2,7 @@
 Este projeto tem como objetivo prever o preço de fechamento das ações da Google (ticker GOOGL) utilizando dados históricos de preços de abertura, maior e menor valor durante o dia e volume de negociações.
 
 ### Visão Geral
-A previsão do preço de fechamento de ações é um desafio comum em finanças e aprendizado de máquina. Este projeto explora a aplicação de modelos preditivos para analisar a relação entre os preços intradia e o volume de negociações para estimar o valor de fechamento de uma ação.
+A previsão do preço de fechamento de ações é um desafio comum em finanças e aprendizado de máquina. Este projeto explora a aplicação de modelos preditivos para analisar a relação entre os preços entrada e o volume de negociações para estimar o valor de fechamento de uma ação.
 
 ### Dados
 Os dados utilizados para treinar e avaliar os modelos incluem as seguintes features para cada dia de negociação:
